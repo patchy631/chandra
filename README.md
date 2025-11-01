@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="assets/logo.png" width="180" alt="Chandra logo" />
+  <img src="assets/logo.png" width="500" alt="Chandra logo" />
+  <h1 align="center">Chandra</h1>
 </p>
 
 
+<p align="center">
 Chandra is a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
+</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Features
